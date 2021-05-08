@@ -39,4 +39,4 @@ class Scheduler {
 
     }
 }
-context.setProperty("schedule", new SchedulerClass(log, context, testRunner))
+context.setProperty("schedule", new Scheduler(log, context, testRunner))
