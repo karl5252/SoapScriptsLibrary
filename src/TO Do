@@ -1,0 +1,7 @@
+1. add to reporting class HTML jenkins style report generator (new class maybe)
+2. Assertion printer
+3. Request Teardown (added as assertion but literally does not it`s specified function)
+4. RandomThingsGen as a CaseSetup
+5. Modify TaekwondoClass to take active screen/window only
+6.test test test test... then Upload XML project file with library
+7.one more attempt with packing the scripts into a jar file.
